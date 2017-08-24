@@ -19,10 +19,10 @@ public class MainActivity extends AppCompatActivity {
         a3=(Button)findViewById(R.id.a3);
         b1=(Button)findViewById(R.id.b1);
         b2=(Button)findViewById(R.id.b2);
-        b3=(Button)findViewById(R.id.a1);
-        a1=(Button)findViewById(R.id.a1);
-        a2=(Button)findViewById(R.id.a1);
-        a3=(Button)findViewById(R.id.a1);
+        b3=(Button)findViewById(R.id.b3);
+        a1=(Button)findViewById(R.id.c1);
+        a2=(Button)findViewById(R.id.c2);
+        a3=(Button)findViewById(R.id.c3);
 
 
 
